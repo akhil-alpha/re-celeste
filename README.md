@@ -15,3 +15,8 @@
 * Run Bruteforce: Launches a bruteforce attack               |Exploit|
 
 Make sure to create a .env file in celeste/functions/ai_res and add your own OpenAI api key.
+
+
+
+
+poda poda
